@@ -1,4 +1,5 @@
 <template>
+  <h1>cache: false</h1>
   <div>
     {{ time }}
   </div>
